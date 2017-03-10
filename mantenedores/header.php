@@ -92,6 +92,21 @@
                     </li>
                     <!-- #usuarios -->
 
+                    <!-- usuarios -->
+                    <li>
+                        <a href="#"><i class="material-icons">&#xE540;</i> Productos<span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+
+                            <li>
+                                <a href="actualiza_grupo_marca.php">Actualiza grupo marca</a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <!-- #usuarios -->
+
+
+
                 </ul>
             </div>
             <!-- /.sidebar-collapse -->
